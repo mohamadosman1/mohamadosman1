@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Mohamad   
 
-<!--
-**mohamadosman1/mohamadosman1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Software Engineer focused on building intelligent and scalable systems.  
 
-Here are some ideas to get you started:
+I have a strong backend foundation and experience developing AI-powered applications that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  What I Do
+- Build scalable backend systems  
+- Design clean architectures  
+- Develop AI-driven solutions  
+
+##  Featured Project
+- PrepWise – AI Interview Preparation Platform  
+
+##  Connect with me
+- LinkedIn: https://www.linkedin.com/in/mohamad-osman-ab87
